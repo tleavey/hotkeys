@@ -12,3 +12,22 @@
 * `G` go to bottom of document
 * `q` quit man page
 
+# markdown
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+# Visual Studio Code
+
+Windows  
+```
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+```  
+Mac  
+```
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+```  
+Linux  
+```
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+```
+
